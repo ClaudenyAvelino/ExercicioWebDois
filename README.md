@@ -7,4 +7,6 @@
 * <https://visualstudio.microsoft.com/pt-br/downloads/>
 
 * Criação do Projeto
-
+### Ideia Inicial criar uma classe Cliente e fazer o crud do cliente e
+### também criar uma classe Produto e implementar o crud
+#### Assim entender a arquitetura MVC e editar as configurações iniciais
